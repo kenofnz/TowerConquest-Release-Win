@@ -1,26 +1,33 @@
 ![Ascension](https://github.com/kenofnz/Ascension/raw/master/Ascension/resources/sprites/ui/menu/title.png)
 
-# Description
-An multiplayer action 2D sidescrolling platformer coded in pure Java.
+A 2D Multiplayer PvP action Platformer with indepth RPG-style progression.
+Inspired by Action RPGs and Metroidvanias. A game dedicated about its gameplay.
 
-# System Requirements
+![Play](https://github.com/kenofnz/AscensionInfo/raw/gh-pages/images/play.png)
+
+- [Home & DevLogs](http://www.gdunlimited.net/games/ascension/)
+- [itch.io](https://kenofnz.itch.io/ascension)
+- [GameJolt](http://gamejolt.com/games/ascension/179549)
+
+## System Requirements
 Java 8 - [Download](http://java.com/en/download/)
 
-# Version 0.19 Release
-## Gameplay Changes
-* Players can now control their direction in midair.
-* Map - Moved platforms slightly closer.
-* Fixed Firebrand burn damage missing one tick.
-* Magnetize pull time increased from 0.2s to 0.35s.
+## Changelog
+[View here](https://kenofnz.github.io/AscensionInfo/)
 
-# Credits
+![Social Media](https://github.com/kenofnz/AscensionInfo/raw/gh-pages/images/social.png)
+
+- [Twitter](https://twitter.com/Ascension2D)
+- [Facebook](https://www.facebook.com/Ascension2D/)
+
+## Credits
 ### Developer/Game Designer/Visual Designs
 [KenOfNZ](https://github.com/kenofnz)
 
-## Character Base
+### Character Base
 [TradnuxGames](http://tradnux.com/)
 
-## Music
+### Music
 Title & Menu Tracks
 
 * Hero - [geluf](https://soundcloud.com/geluf)
