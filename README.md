@@ -13,7 +13,7 @@ Inspired by Action RPGs and Metroidvanias. A game dedicated about its gameplay.
 Java 8 - [Download](http://java.com/en/download/)
 
 ## Changelog
-[View here](https://kenofnz.github.io/AscensionInfo/)
+[View here](https://k-games.github.io/AscensionInfo/)
 
 ![Social Media](https://github.com/kenofnz/AscensionInfo/raw/gh-pages/images/social.png)
 
